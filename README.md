@@ -13,3 +13,4 @@ Author:
   East China University of Science and Technology
   Shanghai 200237, China
   Email: fren@ecust.edu.cn
+[readme.docx](https://github.com/olrenfei/Optimal-policies-weighing-between-health-and-economic-costs-in-response-to-the-COVID-19-pandemic/files/8845279/readme.docx)
